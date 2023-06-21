@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "586365851156",
+    "firebase_url": "https://scinies-default-rtdb.firebaseio.com",
+    "project_id": "scinies",
+    "storage_bucket": "scinies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586365851156:android:841489a23938c71ff0f901",
+        "android_client_info": {
+          "package_name": "com.example.board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586365851156-gdtu9ohisvqdqm62rhsmou752pes7ebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChTg3mShV88fS0AaKGKn89dRxMM7ubx7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586365851156-gdtu9ohisvqdqm62rhsmou752pes7ebs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586365851156:android:31b8ab5f4cdce80ef0f901",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasesearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586365851156-gdtu9ohisvqdqm62rhsmou752pes7ebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChTg3mShV88fS0AaKGKn89dRxMM7ubx7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586365851156-gdtu9ohisvqdqm62rhsmou752pes7ebs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
